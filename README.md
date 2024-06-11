@@ -31,3 +31,15 @@ Example Image ![Example Image](./.assets/example.png)
 
 **Instructions:**
 1. To install the required packages, use the following command:
+   ```
+   yay -S dunst playerctl waybar (add any other required packages)
+   ```
+2. Then, run the following commands:
+   ```
+   wget https://github.com/gruensys/dotfiles/
+   cp -r dotfiles/* $HOME/
+   chmod +x $HOME/script/*
+   rm -rf $HOME/.assets/*
+   ```
+-------------------------------------------------------------------------------------------------------
+If you have issues installing, feel free to contact me via one of the accounts linked on my GitHub page. Also, feel free to edit, share, and contribute!
