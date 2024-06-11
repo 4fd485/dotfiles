@@ -11,7 +11,7 @@ Dotfiles Setup Guide
   - GitHub Repository: [Caway](https://github.com/PROxZIMA/caway)
 
 **Preview:** 
-Example Image (![Example Image](./.assets/example.png)
+Example Image ![Example Image](./.assets/example.png)
 
 **Packages:**
 **Required:**
