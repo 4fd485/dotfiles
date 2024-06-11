@@ -2,4 +2,4 @@
 
 **Script for Canva:** [Caway](https://github.com/PROxZIMA/caway)
 
-![Preview](./assets/example.png)
+![Preview](./.assets/example.png)
