@@ -1,0 +1,103 @@
+* {
+  border: none;
+  border-radius: 0;
+  font-family: 'HackNerdFont', sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  min-height: 0; 
+}
+
+window#waybar {
+    background: rgba(30, 30, 46, 0);
+    color: #89b4fa;
+}
+
+tooltip {
+    background: #74c7ec;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #90EE90;
+}
+
+#workspaces button {
+    padding: 5px;
+    color: #232634;
+    margin-right: 5px;
+}
+
+#workspaces button.active {
+    color: #a6e3a1;
+}
+
+#workspaces button.focused {
+    color: #E0457B;
+    background: #232634;
+    border-radius: 10px;
+}
+
+#workspaces button.urgent {
+    color: #FFD700;
+    background: #232634;
+    border-radius: 10px;
+}
+
+#workspaces button:hover {
+    background: #232634;
+    color: #8caaee;
+    border-radius: 10px;
+}
+
+#clock,
+#pulseaudio,
+#workspaces,
+#tray {
+    background: #000000;
+    padding: 0px 10px;
+    margin: 3px 0px;
+    margin-top: 10px;
+    border: 1px solid #051C2C;
+    outline: 2px solid #a6da95; /* Add outline with color #a6da95 */
+}
+
+#tray menu {
+    background: #000000;
+    color: #E0457B;
+    padding: 0px 10px;
+    margin: 3px 0px;
+    margin-top: 10px;
+    border: 1px solid #051C2C;
+    border-radius: 10px;
+    outline: 2px solid #a6da95; /* Add outline with color #a6da95 */
+}
+
+#tray {
+    border-radius: 10px;
+    margin-right: 10px;
+    font-size: 11px; 
+    font-family: "Hack", "Hack Nerd Font"; 
+    outline: 2px solid #a6da95; /* Add outline with color #a6da95 */
+}
+
+#workspaces {
+    background: #000000;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding-right: 0px;
+    padding-left: 5px;
+    outline: 2px solid #a6da95; /* Add outline with color #a6da95 */
+}
+
+#clock {
+    color: #cba6f7 ;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 5px;
+    border-right: 0px;
+}
+
+#pulseaudio {
+    color: #89b4fa ;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 5px;
+    border-right: 0px;
+}
