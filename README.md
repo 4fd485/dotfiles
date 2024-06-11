@@ -43,3 +43,4 @@ Example Image ![Example Image](./.assets/example.png)
    ```
 -------------------------------------------------------------------------------------------------------
 If you have issues installing, feel free to contact me via one of the accounts linked on my GitHub page. Also, feel free to edit, share, and contribute!
+Don’t have a good day, have a great day!
