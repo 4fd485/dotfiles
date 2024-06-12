@@ -19,7 +19,6 @@ Example Image ![Example Image](./.assets/example.png)
 2. Playerctl - Command-line utility to control media players.
 3. Fuzzel - Custom script or application (GitHub link not provided).
 4. Waybar - A highly customizable Wayland bar for Sway.
-5. (Anything else you forgot)
 
 **Optional:**
 1. Variety - Wallpaper changer. (custom script included)
